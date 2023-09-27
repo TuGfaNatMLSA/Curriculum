@@ -74,8 +74,7 @@ const projectList = [
   },
   {
     title: "Weigthlifting Player",
-    description:
-      "Representing the universidad mayor de san andres since 2018.",
+    description: "Representing the universidad mayor de san andres since 2018.",
     url: "https://www.instagram.com/p/B4qeCNxgjyt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
   },
   {
