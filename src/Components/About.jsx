@@ -16,27 +16,49 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/gatos.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "abstract cats";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a computer science student and I'm still learning about UI/UX, Web development, Mobile Development and Project Mangement. I'm a member of WTM El Alto, GDG El Alto, MLSA - Alpha , R00thouse HackLab La Paz, Microsoft Users Group Bolivia, because I love the technology and with those comunities I can learn more about it and transmit it to the people.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "Mobile development",
+  "Project management",
+  "B2 ENGLISH",
+  "A2 Deutch",
+  "Volleyball Player",
+  "Weigthlifting", 
+  "Community Manager",
+  "UI/UX",
+  "Gsuits",
+  "Microsoft Office",
+  "Android development",
+  "Streamer in progress",
+  "Gamer",
+  "Blogger",
+  "Public Speaker",
+  "Mentor",
+  "Volunteer",
+  "Leader",
+  "Teamwork",
+  "Creativity",
+  "Problem Solving",
+  "Critical Thinking",
+  "Adaptability",
+  "Organization",
+  "Content creator", 
+  "Social media",
+  "Public Relations",
 ];
 
 /**
@@ -45,7 +67,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I love when someone starts to know about technology, so that is the reason because I like to be in all those communities. I would like to learn more about Web and Mobile development but my heart is with the project management too. To finish this I have departamental selections in volleyball and weigthlifting, I'm a gamer and streamer in progress, I'm a blogger and I love to be a public speaker, mentor and volunteer. I'm a leader and I love teamwork. I'm a creative person and I like to solve problems. I'm a critical thinking person and I like to adapt to the changes. I'm an organized person and I like to create content. I'm a social media person and I like to be in public relations, representing my city and my University.";
 
 const About = () => {
   return (

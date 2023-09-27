@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/foto2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Woman between plants";
 
 /**
  * Project list
@@ -31,28 +31,59 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AI Fundamentals",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "On Saturday September 16 was the event "Revealing secrets of AI" at the Universidad del Valle (BO) in La Paz. In which I had the honor to participate as a speaker giving an introduction to what is artificial intelligence with Azure.",
+    url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_on-saturday-september-16-was-the-event-revealing-activity-7111027594635960320-88yj?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Inauguration of R00thouse HackLab La Paz",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "
+      The community hosts different communities as part of it and together with different technologies we make more people who like technology join, we also develop soft skills. It is a house of knowledge.",
+    url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_lapaz-bolivia-hacking-activity-7102621000332107779-sD8d?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "My Resume Site",
+    title: "Google I/O Extended El Alto 2023 ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilitiesGoogle I/O Extended seeks to bring technology enthusiasts together to hear about the latest solutions, products and technology for developers from Google.",
+    url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_wtmambassador-google-tech-activity-7102321761509109760-HDVG?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Google I/O Extended La Paz 2023 ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I have been part of the organization of the Google I/O extended La Paz. It was a wonderful experience to organize an event as big as this and see what the results are. For more experiences like this.",
+    url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_wtmambassadors-extended-activity-7096989224318459904-2RkA?utm_source=share&utm_medium=member_desktop",
+  }
+    {
+    title: "How to make your 20's profitable and not die trying",
+    description:
+      "I gave my first talk called how to make your 20's profitable and not die trying" in which I have given tips on work, soft skills needed, ways of working and others.",
+    url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_tech-event-opportunity-activity-7080571766590320640-GgDk?utm_source=share&utm_medium=member_desktop",
+  },
+  {
+    title: "English Teacher",
+    description:
+      "I am currently teaching basic and beginner English to children from 4 to 10 years old.",
+    url: "",
+  },
+  {
+    title: "Voleyball Player",
+    description:
+      "I have been playing volleyball since I was 13 years old and throughout this long journey I have been able to achieve several championships and very important sporting achievements. Includes my experience and design abilities.",
+    url: "https://www.instagram.com/p/BsEWPZyA0Oy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+  },
+  {
+    title: "Weigthlifting Player",
+    description:
+      "Representing the universidad mayor de san andres since 2018.",
+    url: "https://www.instagram.com/p/B4qeCNxgjyt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+  },
+  {
+    title: "Pedagogie course",
+    description:
+      "the 27th auxiliary course of the universidad mayor de san andres took place, in which I participated and was able to acquire the ideal teaching skills for learning.",
+    url: "",
   },
 ];
 
