@@ -39,8 +39,7 @@ const projectList = [
   {
     title: "Inauguration of R00thouse HackLab La Paz",
     description:
-      "
-      The community hosts different communities as part of it and together with different technologies we make more people who like technology join, we also develop soft skills. It is a house of knowledge.",
+      "The community hosts different communities as part of it and together with different technologies we make more people who like technology join, we also develop soft skills. It is a house of knowledge.",
     url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_lapaz-bolivia-hacking-activity-7102621000332107779-sD8d?utm_source=share&utm_medium=member_desktop",
   },
   {
@@ -58,7 +57,7 @@ const projectList = [
     {
     title: "How to make your 20's profitable and not die trying",
     description:
-      "I gave my first talk called how to make your 20's profitable and not die trying" in which I have given tips on work, soft skills needed, ways of working and others.",
+      "I gave my first talk called how to make your 20's profitable and not die trying in which I have given tips on work, soft skills needed, ways of working and others.",
     url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_tech-event-opportunity-activity-7080571766590320640-GgDk?utm_source=share&utm_medium=member_desktop",
   },
   {
