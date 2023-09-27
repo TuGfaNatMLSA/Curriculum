@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "AI Fundamentals",
     description:
-      "On Saturday September 16 was the event "Revealing secrets of AI" at the Universidad del Valle (BO) in La Paz. In which I had the honor to participate as a speaker giving an introduction to what is artificial intelligence with Azure.",
+      "On Saturday September 16 was the event Revealing secrets of AI at the Universidad del Valle (BO) in La Paz. In which I had the honor to participate as a speaker giving an introduction to what is artificial intelligence with Azure.",
     url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_on-saturday-september-16-was-the-event-revealing-activity-7111027594635960320-88yj?utm_source=share&utm_medium=member_desktop",
   },
   {
@@ -53,8 +53,8 @@ const projectList = [
     description:
       "I have been part of the organization of the Google I/O extended La Paz. It was a wonderful experience to organize an event as big as this and see what the results are. For more experiences like this.",
     url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_wtmambassadors-extended-activity-7096989224318459904-2RkA?utm_source=share&utm_medium=member_desktop",
-  }
-    {
+  },
+  {
     title: "How to make your 20's profitable and not die trying",
     description:
       "I gave my first talk called how to make your 20's profitable and not die trying in which I have given tips on work, soft skills needed, ways of working and others.",
