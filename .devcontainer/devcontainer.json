@@ -49,7 +49,7 @@
           "source.fixAll.less": true,
           "source.fixAll.sass": true,
           "source.fixAll.scss": true
-        },
+        }
       }
     }
   },
