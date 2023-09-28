@@ -28811,7 +28811,7 @@ const imageAltText = "Woman between plants";
         url: ""
     },
     {
-        title: "Voleyball Playerrrr",
+        title: "Voleyball Player",
         description: "I have been playing volleyball since I was 13 years old and throughout this long journey I have been able to achieve several championships and very important sporting achievements. Includes my experience and design abilities.",
         url: "https://www.instagram.com/p/BsEWPZyA0Oy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
     },
@@ -28858,7 +28858,8 @@ const Portfolio = ()=>{
                             style: {
                                 height: "90%",
                                 width: "100%",
-                                objectFit: "cover"
+                                objectFit: "cover",
+                                animation: "1s ease-out 0s 1 slideIn"
                             },
                             alt: imageAltText
                         }, void 0, false, {
@@ -28887,12 +28888,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 104,
+                                            lineNumber: 109,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 103,
+                                        lineNumber: 108,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -28900,18 +28901,18 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 106,
+                                        lineNumber: 111,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 102,
+                                lineNumber: 107,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 100,
+                        lineNumber: 105,
                         columnNumber: 9
                     }, undefined)
                 ]
