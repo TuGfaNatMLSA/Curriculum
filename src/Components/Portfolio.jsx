@@ -61,7 +61,7 @@ const projectList = [
     url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_tech-event-opportunity-activity-7080571766590320640-GgDk?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "English Teacher",
+    title: "English Teachereee",
     description:
       "I am currently teaching basic and beginner English to children from 4 to 10 years old.",
     url: "",
