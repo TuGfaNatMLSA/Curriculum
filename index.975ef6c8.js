@@ -28859,7 +28859,7 @@ const Portfolio = ()=>{
                                 height: "90%",
                                 width: "100%",
                                 objectFit: "cover",
-                                animation: "1s ease-out 0s 1 slideIn"
+                                animation: "1s ease-out 0s 1 slideIn  "
                             },
                             alt: imageAltText
                         }, void 0, false, {
