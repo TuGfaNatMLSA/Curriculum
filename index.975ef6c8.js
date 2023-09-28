@@ -28811,7 +28811,7 @@ const imageAltText = "Woman between plants";
         url: ""
     },
     {
-        title: "Voleyball Player",
+        title: "Voleyball Playerrrr",
         description: "I have been playing volleyball since I was 13 years old and throughout this long journey I have been able to achieve several championships and very important sporting achievements. Includes my experience and design abilities.",
         url: "https://www.instagram.com/p/BsEWPZyA0Oy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
     },
