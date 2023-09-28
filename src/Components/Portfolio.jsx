@@ -61,7 +61,7 @@ const projectList = [
     url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_tech-event-opportunity-activity-7080571766590320640-GgDk?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "English Teachereeuuwe",
+    title: "English Teacher",
     description:
       "I am currently teaching basic and beginner English to children from 4 to 10 years old.",
     url: "",
@@ -97,7 +97,7 @@ const Portfolio = () => {
               height: "90%",
               width: "100%",
               objectFit: "cover",
-              animation: "1s ease-out 0s 1 slideIn",
+              animation: "1s ease-out 0s 1 slideIn  ",
             }}
             alt={imageAltText}
           />
