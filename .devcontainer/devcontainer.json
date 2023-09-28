@@ -23,13 +23,33 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot",
         "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurestaticwebapps"
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "oderwat.indent-rainbow",
+        "PKief.material-icon-theme",
+        "sdras.night-owl",
+        "wix.vscode-import-cost",
+        "zhuangtongfa.material-theme"
+
       ],
       "settings": {
         "emmet.includeLanguages": {
           "javascript": "javascriptreact"
         },
-        "emmet.triggerExpansionOnTab": true
+        "emmet.triggerExpansionOnTab": true,
+        "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true,
+          "source.organizeImports": true,
+          "source.fixAll": true,
+          "source.fixAll.stylelint": true,
+          "source.fixAll.markdownlint": true,
+          "source.fixAll.tslint": true,
+          "source.fixAll.javascript": true,
+          "source.fixAll.json": true,
+          "source.fixAll.css": true,
+          "source.fixAll.less": true,
+          "source.fixAll.sass": true,
+          "source.fixAll.scss": true
+        },
       }
     }
   },
