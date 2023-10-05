@@ -24,11 +24,7 @@
         "GitHub.copilot",
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurestaticwebapps",
-        "oderwat.indent-rainbow",
-        "PKief.material-icon-theme",
-        "sdras.night-owl",
-        "wix.vscode-import-cost",
-        "zhuangtongfa.material-theme"
+        "oderwat.indent-rainbow"
 
       ],
       "settings": {

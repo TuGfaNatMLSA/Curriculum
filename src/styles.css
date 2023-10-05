@@ -17,7 +17,10 @@ body {
   scroll-behavior: smooth;
   
 }
-
+/* add an animation to the body */
+body {
+  animation: slideInLeft 0.5s ease-in-out;
+}
 
 
 div#main {
@@ -129,3 +132,14 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add a slide in animation */
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
