@@ -77,12 +77,7 @@ const projectList = [
     description: "Representing the universidad mayor de san andres since 2018.",
     url: "https://www.instagram.com/p/B4qeCNxgjyt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
   },
-  {
-    title: "Pedagogie course",
-    description:
-      "the 27th auxiliary course of the universidad mayor de san andres took place, in which I participated and was able to acquire the ideal teaching skills for learning.",
-    url: "",
-  },
+ 
 ];
 
 const Portfolio = () => {
