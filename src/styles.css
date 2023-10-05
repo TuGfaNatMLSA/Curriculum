@@ -17,10 +17,6 @@ body {
   scroll-behavior: smooth;
   
 }
-/* add an animation to the body */
-body {
-  animation: slideInLeft 0.5s ease-in-out;
-}
 
 
 div#main {
@@ -143,3 +139,64 @@ img.socialIcon {
   }
 }
 
+/* add animation to arrow svg */
+.arrow {
+  animation: slideInLeft 1s ease-in-out;
+  animation-fill-mode: forwards;
+  animation-delay: 1s;
+  cursor: pointer;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50px;
+
+}.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+
+.grid-item {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Education */
+#education {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+}
+
+#education h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+
+.grid-item {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.grid-item h2 {
+  margin-top: 0;
+}
+
+.grid-item h3 {
+  margin-bottom: 10px;
+}
+
+.grid-item p {
+  margin: 0;
+}
