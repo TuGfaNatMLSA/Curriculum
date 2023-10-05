@@ -27533,55 +27533,35 @@ var _cerJpgDefault = parcelHelpers.interopDefault(_cerJpg);
 const imageAltText = "Woman with certification";
 const projectList = [
     {
-        title: "AI Fundamentals",
-        description: "On Saturday September 16 was the event Revealing secrets of AI at the Universidad del Valle (BO) in La Paz. In which I had the honor to participate as a speaker giving an introduction to what is artificial intelligence with Azure.",
-        url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_on-saturday-september-16-was-the-event-revealing-activity-7111027594635960320-88yj?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        title: "Inauguration of R00thouse HackLab La Paz",
-        description: "The community hosts different communities as part of it and together with different technologies we make more people who like technology join, we also develop soft skills. It is a house of knowledge.",
-        url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_lapaz-bolivia-hacking-activity-7102621000332107779-sD8d?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        title: "Google I/O Extended El Alto 2023 ",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilitiesGoogle I/O Extended seeks to bring technology enthusiasts together to hear about the latest solutions, products and technology for developers from Google.",
-        url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_wtmambassador-google-tech-activity-7102321761509109760-HDVG?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        title: "Google I/O Extended La Paz 2023 ",
-        description: "I have been part of the organization of the Google I/O extended La Paz. It was a wonderful experience to organize an event as big as this and see what the results are. For more experiences like this.",
-        url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_wtmambassadors-extended-activity-7096989224318459904-2RkA?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        title: "How to make your 20's profitable and not die trying",
-        description: "I gave my first talk called how to make your 20's profitable and not die trying in which I have given tips on work, soft skills needed, ways of working and others.",
-        url: "https://www.linkedin.com/posts/nataly-gemio-32602a216_tech-event-opportunity-activity-7080571766590320640-GgDk?utm_source=share&utm_medium=member_desktop"
-    },
-    {
-        title: "English Teacher",
-        description: "I am currently teaching basic and beginner English to children from 4 to 10 years old.",
+        title: "Pedagogie course",
+        description: "the 27th auxiliary course of the universidad mayor de san andres took place, in which I participated and was able to acquire the ideal teaching skills for learning.",
         url: ""
     },
     {
-        title: "Voleyball Player",
-        description: "I have been playing volleyball since I was 13 years old and throughout this long journey I have been able to achieve several championships and very important sporting achievements. Includes my experience and design abilities.",
-        url: "https://www.instagram.com/p/BsEWPZyA0Oy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
+        title: "Computer Science",
+        description: "Student of Computer Science in Universidad Mayor de San Andres, I am currently in the 9th semester.",
+        url: ""
     },
     {
-        title: "Weigthlifting Player",
-        description: "Representing the universidad mayor de san andres since 2018.",
-        url: "https://www.instagram.com/p/B4qeCNxgjyt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
+        title: "AI Fundamentals Microsoft",
+        description: "Course created by Microsoft in its learning paths.",
+        url: ""
     },
     {
-        title: "Pedagogie course",
-        description: "the 27th auxiliary course of the universidad mayor de san andres took place, in which I participated and was able to acquire the ideal teaching skills for learning.",
+        title: "English Language ",
+        description: "Studied in CETI (Centro de ensenianza y traduccion de idiomas) La Paz - Bolivia 2022.",
+        url: ""
+    },
+    {
+        title: "German Language",
+        description: "Studied in Goethe Institut La Paz Bolivia 2017.",
         url: ""
     }, 
 ];
 const Education = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
-        id: "Education",
+        id: "education",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
                 style: {
@@ -27590,7 +27570,7 @@ const Education = ()=>{
                 children: "Education"
             }, void 0, false, {
                 fileName: "src/Components/Education.jsx",
-                lineNumber: 65,
+                lineNumber: 40,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27616,12 +27596,12 @@ const Education = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Education.jsx",
-                            lineNumber: 68,
+                            lineNumber: 43,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Education.jsx",
-                        lineNumber: 67,
+                        lineNumber: 42,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27640,12 +27620,12 @@ const Education = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Education.jsx",
-                                            lineNumber: 83,
+                                            lineNumber: 58,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Education.jsx",
-                                        lineNumber: 82,
+                                        lineNumber: 57,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27653,30 +27633,30 @@ const Education = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Education.jsx",
-                                        lineNumber: 85,
+                                        lineNumber: 60,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Education.jsx",
-                                lineNumber: 81,
+                                lineNumber: 56,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Education.jsx",
-                        lineNumber: 79,
+                        lineNumber: 54,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Education.jsx",
-                lineNumber: 66,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Education.jsx",
-        lineNumber: 64,
+        lineNumber: 39,
         columnNumber: 5
     }, undefined);
 };
@@ -28773,16 +28753,16 @@ const Header = ()=>{
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                href: "#footer",
-                children: "Contact"
+                href: "#education",
+                children: "Education"
             }, void 0, false, {
                 fileName: "src/Components/Header.jsx",
                 lineNumber: 27,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                href: "#education",
-                children: "Education"
+                href: "#footer",
+                children: "Contact"
             }, void 0, false, {
                 fileName: "src/Components/Header.jsx",
                 lineNumber: 28,
@@ -29012,11 +28992,6 @@ const imageAltText = "Woman between plants";
         title: "Weigthlifting Player",
         description: "Representing the universidad mayor de san andres since 2018.",
         url: "https://www.instagram.com/p/B4qeCNxgjyt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
-    },
-    {
-        title: "Pedagogie course",
-        description: "the 27th auxiliary course of the universidad mayor de san andres took place, in which I participated and was able to acquire the ideal teaching skills for learning.",
-        url: ""
     }, 
 ];
 const Portfolio = ()=>{
@@ -29031,7 +29006,7 @@ const Portfolio = ()=>{
                 children: "Portfolio"
             }, void 0, false, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 91,
+                lineNumber: 86,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -29057,12 +29032,12 @@ const Portfolio = ()=>{
                             alt: imageAltText
                         }, void 0, false, {
                             fileName: "src/Components/Portfolio.jsx",
-                            lineNumber: 94,
+                            lineNumber: 89,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 93,
+                        lineNumber: 88,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -29081,12 +29056,12 @@ const Portfolio = ()=>{
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "src/Components/Portfolio.jsx",
-                                            lineNumber: 109,
+                                            lineNumber: 104,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 108,
+                                        lineNumber: 103,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -29094,30 +29069,30 @@ const Portfolio = ()=>{
                                         children: project.description
                                     }, void 0, false, {
                                         fileName: "src/Components/Portfolio.jsx",
-                                        lineNumber: 111,
+                                        lineNumber: 106,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, project.title, true, {
                                 fileName: "src/Components/Portfolio.jsx",
-                                lineNumber: 107,
+                                lineNumber: 102,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/Portfolio.jsx",
-                        lineNumber: 105,
+                        lineNumber: 100,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Portfolio.jsx",
-                lineNumber: 92,
+                lineNumber: 87,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Portfolio.jsx",
-        lineNumber: 90,
+        lineNumber: 85,
         columnNumber: 5
     }, undefined);
 };
